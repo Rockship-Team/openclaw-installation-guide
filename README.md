@@ -14,4 +14,4 @@ Vui lòng chọn hệ điều hành bạn đang sử dụng để xem hướng d
 | :--- | :--- |
 | **Windows** | [📄 Xem tại docs/windows.md](./docs/windows.md) |
 | **macOS** | [📄 Xem tại docs/macos.md](./docs/macos.md) |
-| **Linux** | [📄 Xem tại docs/linux.md](./docs/linux.md) |
+
