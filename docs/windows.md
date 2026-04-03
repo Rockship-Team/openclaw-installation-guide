@@ -90,7 +90,7 @@ openclaw onboard --install-daemon
 
 4. **Enter OpenRouter API key**
 
-    Nhập `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`
+    Nhập `sk-or-v1-xxxxxxxxxx`
 
     ![image.png](../assets/image%209.png)
 
