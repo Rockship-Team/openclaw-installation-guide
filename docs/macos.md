@@ -105,19 +105,19 @@ openclaw onboard --install-daemon
 
 3. **Model/auth provider**
 
-    Chọn `OpenRouter`
+    Chọn `Google`
 
     ![image.png](../assets/image%208.png)
 
-4. **Enter OpenRouter API key**
+4. **Enter Gemini API key**
 
-    Nhập API key của bạn (lấy từ [OpenRouter](https://openrouter.ai/keys))
+    Nhập API key của bạn (lấy từ [Google AI Studio](https://aistudio.google.com/api-keys))
 
     ![image.png](../assets/image%209.png)
 
 5. **Default model**
 
-    Chọn `openrouter/stepfun/step-3.5-flash`
+    Chọn `google/gemini-2.5-flash`
 
     ![image.png](../assets/image%2010.png)
 

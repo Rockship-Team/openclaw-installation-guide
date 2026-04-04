@@ -8,7 +8,7 @@ Winget (Windows Package Manager) thường được tích hợp sẵn trên Wind
 
 1. Mở **Command Prompt**, gõ `winget -v`. Nếu hiện số phiên bản, bạn đã có winget.
 
-    ![image.png](../assets/image.png)
+    ![image.png](../assets/image%200.png)
 
 2. Nếu chưa có, truy cập Microsoft Store, tìm kiếm **"App Installer"** và nhấn "Cập nhật" (Update) hoặc "Cài đặt" (Install).
 
@@ -84,19 +84,19 @@ openclaw onboard --install-daemon
 
 3. **Model/auth provider**
 
-    Chọn `OpenRouter`
+    Chọn `Google`
 
     ![image.png](../assets/image%208.png)
 
-4. **Enter OpenRouter API key**
+4. **Enter Gemini API key**
 
-    Nhập `sk-or-v1-xxxxxxxxxx`
+    Nhập API key của bạn (lấy từ [Google AI Studio](https://aistudio.google.com/api-keys))
 
     ![image.png](../assets/image%209.png)
 
 5. **Default model**
 
-    Chọn `openrouter/stepfun/step-3.5-flash`
+    Chọn `google/gemini-2.5-flash`
 
     ![image.png](../assets/image%2010.png)
 

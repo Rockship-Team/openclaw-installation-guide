@@ -8,7 +8,7 @@ Winget (Windows Package Manager) is usually pre-installed on Windows 11 and rece
 
 1. Open **Command Prompt**, type `winget -v`. If a version number is shown, you already have winget.
 
-    ![image.png](../assets/image.png)
+    ![image.png](../assets/image%200.png)
 
 2. If you don't have it, open the Microsoft Store, search for **"App Installer"**, and click "Update" or "Install".
 
@@ -83,19 +83,19 @@ openclaw onboard --install-daemon
 
 3. **Model/auth provider**
 
-    Select `OpenRouter`
+    Select `Google`
 
     ![image.png](../assets/image%208.png)
 
-4. **Enter OpenRouter API key**
+4. **Enter Gemini API key**
 
-    Enter your API key (e.g. `sk-or-v1-xxxxxxxxxx`)
+    Enter your API key (get one from [Google AI Studio](https://aistudio.google.com/api-keys))
 
     ![image.png](../assets/image%209.png)
 
 5. **Default model**
 
-    Select `openrouter/stepfun/step-3.5-flash`
+    Select `google/gemini-2.5-flash`
 
     ![image.png](../assets/image%2010.png)
 
