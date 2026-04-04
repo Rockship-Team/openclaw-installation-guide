@@ -104,43 +104,49 @@ openclaw onboard --install-daemon
 
     ![image.png](../assets/image%208.png)
 
-4. **Enter Gemini API key**
+4. **Google auth method**
+
+    Select `Google Gemini API key`
+
+    ![image.png](../assets/image%208_1.png)
+
+5. **Enter Gemini API key**
 
     Enter your API key (get one from [Google AI Studio](https://aistudio.google.com/api-keys))
 
     ![image.png](../assets/image%209.png)
 
-5. **Default model**
+6. **Default model**
 
     Select `google/gemini-2.5-flash`
 
     ![image.png](../assets/image%2010.png)
 
-6. **Select channel (QuickStart)**
+7. **Select channel (QuickStart)**
 
     Select `Skip for now`
 
     ![image.png](../assets/image%2011.png)
 
-7. **Search provider**
+8. **Search provider**
 
     Select `Skip for now`
 
     ![image.png](../assets/image%2012.png)
 
-8. **Configure skills now? (Recommended)**
+9. **Configure skills now? (Recommended)**
 
     Select `No`
 
     ![image.png](../assets/image%2013.png)
 
-9. **Enable hooks?**
+10. **Enable hooks?**
 
     Select `Skip for now`
 
     ![image.png](../assets/image%2014.png)
 
-10. **How do you want to hatch your bot?**
+11. **How do you want to hatch your bot?**
 
     Select `Do this later`
 
@@ -151,7 +157,7 @@ Once all selections are made, the initial setup is complete.
 
 ![image.png](../assets/image%2016.png)
 
-**Note:** After step 10, OpenClaw will automatically open a new terminal window to run the gateway. If it doesn't open automatically, you can start it manually:
+**Note:** After step 11, OpenClaw will automatically open a new terminal window to run the gateway. If it doesn't open automatically, you can start it manually:
 
 ```bash
 openclaw gateway

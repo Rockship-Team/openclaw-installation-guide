@@ -88,43 +88,49 @@ openclaw onboard --install-daemon
 
     ![image.png](../assets/image%208.png)
 
-4. **Enter Gemini API key**
+4. **Google auth method**
+
+    Chọn `Google Gemini API key`
+
+    ![image.png](../assets/image%208_1.png)
+
+5. **Enter Gemini API key**
 
     Nhập API key của bạn (lấy từ [Google AI Studio](https://aistudio.google.com/api-keys))
 
     ![image.png](../assets/image%209.png)
 
-5. **Default model**
+6. **Default model**
 
     Chọn `google/gemini-2.5-flash`
 
     ![image.png](../assets/image%2010.png)
 
-6. **Select channel (QuickStart)**
+7. **Select channel (QuickStart)**
 
     Chọn `Skip for now`
 
     ![image.png](../assets/image%2011.png)
 
-7. **Search provider**
+8. **Search provider**
 
     Chọn `Skip for now`
 
     ![image.png](../assets/image%2012.png)
 
-8. **Configure skills now? (Recommended)**
+9. **Configure skills now? (Recommended)**
 
     Chọn `No`
 
     ![image.png](../assets/image%2013.png)
 
-9. **Enable hooks?**
+10. **Enable hooks?**
 
     Chọn `Skip for now`
 
     ![image.png](../assets/image%2014.png)
 
-10. **How do you want to hatch your bot?**
+11. **How do you want to hatch your bot?**
 
     Chọn `Do this later`
 
@@ -135,7 +141,7 @@ Sau khi hoàn tất các lựa chọn, bạn đã thiết lập ban đầu thàn
 
 ![image.png](../assets/image%2016.png)
 
-**Lưu ý:** Sau lựa chọn 9, OpenClaw sẽ tự động mở cửa sổ terminal mới để chạy gateway, nếu không tự động mở, có thể mở thủ công
+**Lưu ý:** Sau lựa chọn 11, OpenClaw sẽ tự động mở cửa sổ terminal mới để chạy gateway, nếu không tự động mở, có thể mở thủ công
 
 ```bash
 openclaw gateway
